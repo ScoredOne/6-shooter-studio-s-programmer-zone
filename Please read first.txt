@@ -1,0 +1,12 @@
+I have found that the starter content was taking up 600MB of data for the
+project, for future reference the build of the UE4 project is approx 600Mb
+aswell.
+
+This project then will NOT have any unnecessary load in it such as maps,
+models, sounds (Content basicly).
+
+If you want to add content please leave it outside of the project folder
+in the base directory so we know how large the project is please.
+
+Please try not to allow the whole repositorie excede 1GB of data, you can
+go over but dont get carried away.
