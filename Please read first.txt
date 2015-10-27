@@ -1,3 +1,4 @@
+23/10/25
 I have found that the starter content was taking up 600MB of data for the
 project, for future reference the build of the UE4 project is approx 600Mb
 aswell.
@@ -10,3 +11,9 @@ in the base directory so we know how large the project is please.
 
 Please try not to allow the whole repositorie excede 1GB of data, you can
 go over but dont get carried away.
+
+27/10/15
+Iv added some branches so we can mess around and test new things before
+we add them to the master branch, dont worry about commiting stuff to them
+but do remember the 1 GB i mensioned stacks across all branches.
+(As the starting commit is the same as the others the same data isnt duplicated)
